@@ -1,0 +1,39 @@
+Сказка_NOUN
+вот_PART сказать_VERB Ваня_PROPN  класть_VERB на_ADP стол_NOUN тетрадка_NOUN давать_VERB писать_VERB сказка_NOUN
+давать_VERB сказать_VERB Леночка_PROPN  садиться_VERB на_ADP стул_NOUN
+Ваня_PROPN  брать_VERB карандаш_NOUN и_CCONJ писать_VERB
+Жил-был_VERB король_NOUN
+тут_ADV Ваня_PROPN  задумываться_VERB и_CCONJ поднимать_VERB глаз_NOUN к_ADP потолок_NOUN Леночка_NOUN заглянуть_VERB в_ADP тетрадка_NOUN и_CCONJ прочитывать_VERB что_SCONJ писать_VERB Ваня_PROPN 
+такой_DET сказка_NOUN уже_ADV быть_VERB сказать_VERB Леночка_PROPN 
+а_CCONJ почем_ADV ты_PRON знать_VERB спрашивать_VERB Ваня_PROPN 
+знать_VERB потому_ADV что_SCONJ читать_VERB сказать_VERB Леночка_PROPN 
+о_ADP что_PRON же_PART там_ADV говорить_VERB спрашивать_VERB Ваня_PROPN 
+ну_PART о_ADP то_PRON как_SCONJ король_NOUN пить_VERB чай_NOUN с_ADP яблоко_NOUN и_CCONJ вдруг_ADV подавиться_VERB а_CCONJ королева_NOUN стать_VERB бить_VERB он_PRON по_ADP спина_NOUN что_SCONJ кусок_NOUN яблоко_NOUN выскакивать_VERB из_ADP горло_NOUN обратно_ADV а_CCONJ король_NOUN подумал,чвать_PRON королева_ADV драться_VERB и_CCONJ ударять_VERB е?_SYM стакан_NOUN по_ADP голова_NOUN тут_ADV королева_ADV рассердиться_VERB и_CCONJ ударять_VERB король_NOUN тарелка_NOUN а_CCONJ король_NOUN ударять_VERB королева_NOUN миска_ADJ а_CCONJ королева_ADV ударять_VERB король_NOUN стул_NOUN а_CCONJ король_NOUN вскакивать_VERB и_CCONJ ударять_VERB королева_NOUN стол_NOUN а_CCONJ королева_ADV повалить_VERB на_ADP король_NOUN буфет_NOUN но_CCONJ король_NOUN вылезать_VERB из-под_ADP буфет_NOUN и_CCONJ пускать_VERB в_ADP королева_NOUN корона_NOUN тогда_ADV королева_ADV схватить_VERB король_NOUN за_ADP волос_NOUN и_CCONJ выбросить_VERB он_PRON в_ADP окошко_NOUN но_CCONJ король_NOUN влезть_VERB обратно_ADV в_ADP комната_NOUN через_ADP другой_ADJ окно_NOUN схватывать_VERB королева_NOUN и_CCONJ запихать_VERB 1-е_NOUN в_ADP печка_NOUN но_CCONJ королева_ADV вылезти_VERB через_ADP труба_NOUN на_ADP крыша_NOUN потом_ADV спускаться_VERB по_ADP громоотвод_NOUN в_ADP сад_NOUN и_CCONJ через_ADP окно_NOUN вернуться_VERB обратно_ADV в_ADP комната_NOUN а_CCONJ король_NOUN в_ADP этот_DET время_NOUN растапливать_VERB печка_NOUN чтобы_SCONJ сжигать_VERB королева_NOUN королев_ADV подкрасться_VERB сзади_ADV и_PART толкнуть_VERB король_NOUN король_PROPN  полететь_VERB в_ADP печка_NOUN и_CCONJ там_ADV сгорать_VERB вот_PART и_PART весь_DET сказка_NOUN сказать_VERB Леночка_PROPN 
+очень_ADV глупый_ADJ сказка_NOUN сказать_VERB Ваня_PROPN  я_PRON хотеть_VERB писать_VERB совсем_ADV другой_ADJ
+ну_PART писать_VERB сказать_VERB Леночка_PROPN 
+Ваня_PROPN  брать_VERB карандаш_NOUN и_CCONJ писать_VERB
+Жил-бывать_VERB разбойник_NOUN
+подождать_VERB крикнуть_VERB Леночка_PROPN  такой_DET сказка_NOUN уже_ADV быть_VERB
+я_PRON не_PART знать_VERB сказать_VERB Ваня_PROPN 
+ну_PART как_ADV же_PART сказать_VERB Леночка_PROPN  разве_PART ты_PRON не_PART знать_VERB о_ADP то_PRON как_ADV один_NUM разбойник_NOUN спасаться_VERB от_ADP стража_NOUN вскакивать_VERB на_ADP лошадь_NOUN да_CCONJ с_ADP размах_NOUN перевалиться_VERB на_ADP другой_ADJ сторона_NOUN и_CCONJ падать_VERB на_ADP земля_NOUN разбойник_NOUN выругаться_VERB и_CCONJ опять_ADV вскакивать_VERB на_ADP лошадь_NOUN но_CCONJ снова_ADV не_PART рассчитывать_VERB прыжок_NOUN перевалиться_VERB на_ADP другой_ADJ сторона_NOUN и_CCONJ падать_VERB на_ADP земля_NOUN разбойник_NOUN подниматься_VERB погрозить_VERB кулак_NOUN прыгать_VERB на_ADP лошадь_NOUN и_CCONJ опять_ADV перемахнуть_VERB через_ADP нет_PART и_CCONJ полететь_VERB на_ADP земля_NOUN тут_ADV разбойник_NOUN выхватывать_VERB из-за_ADP пояс_NOUN пистолет_NOUN выстреливать_VERB из_ADP он_PRON в_ADP воздух_NOUN и_CCONJ опять_ADV прыгать_VERB на_ADP лошадь_NOUN но_CCONJ с_ADP такой_DET сила_NOUN что_SCONJ опять_ADV перемахнуть_VERB через_ADP нет_PART и_CCONJ шл?пнуться_VERB на_ADP земля_NOUN тогда_ADV разбойник_NOUN срывать_VERB с_ADP голова_NOUN шапка_NOUN растоптать_VERB е?_SYM нога_NOUN и_CCONJ опять_ADV прыгать_VERB на_ADP лошадь_NOUN и_CCONJ опять_ADV перемахнуть_VERB через_ADP нет_PART шлёпнуться_VERB на_ADP земля_NOUN и_CCONJ сломать_VERB себя_PRON нога_NOUN а_CCONJ лошадь_NOUN отходить_VERB в_ADP сторона_NOUN разбойник_NOUN прихрамывать_VERB подбегать_VERB к_ADP лошадь_NOUN и_CCONJ ударять_VERB 1-е_NOUN
+кулак_NOUN по_ADP лоб_NOUN лошадь_NOUN убежать_VERB в_ADP звать_PRON время_NOUN прискакать_VERB стражник_NOUN схватить_VERB разбойник_NOUN и_CCONJ отводить_VERB он_PRON в_ADP тюрьма_NOUN
+ну_PART значит_ADV о_ADP разбойник_NOUN я_PRON писать_VERB не_PART быть_AUX сказать_VERB Ваня_PROPN 
+а_CCONJ о_ADP кто_PRON же_PART быть_AUX спрашивать_VERB Леночка_PROPN 
+я_PRON писать_VERB сказка_NOUN о_ADP кузнеце_NOUN сказать_VERB Ваня_PROPN 
+Ваня_PROPN  писать_VERB
+Жил-бывать_VERB кузнец_NOUN
+такой_DET сказка_NOUN тоже_PART быть_VERB закричать_VERB Леночка_PROPN 
+ну_PART сказать_VERB Ваня_PROPN  и_CCONJ класть_VERB карандаш_NOUN
+как_ADV же_PART сказать_VERB Леночка_PROPN  Жил-бывать_VERB кузнец_NOUN вот_PART однажды_ADV ковать_VERB он_PRON подкова_VERB и_PART так_ADV взмахнуть_VERB молоток_NOUN что_SCONJ молоток_NOUN срываться_VERB с_ADP рукоятка_NOUN вылетать_VERB в_ADP окно_NOUN убивать_VERB четыре_NUM голубь_NOUN ударяться_VERB о_ADP пожарный_ADJ каланча_NOUN отлетать_VERB в_ADP сторона_NOUN
+разбивать_VERB окно_NOUN в_ADP дом_NOUN брандмейстер_NOUN пролетать_VERB над_ADP стол_NOUN за_ADP который_PRON сидеть_VERB сам_ADJ брандмейстер_NOUN и_CCONJ он_PRON жена_NOUN проломить_VERB стена_NOUN в_ADP дом_NOUN брандмейстер_NOUN и_CCONJ вылетать_VERB на_ADP улица_NOUN не_NOUN опрокинуть_VERB на_ADP земля_NOUN фонарный_ADJ столб_NOUN сшибить_VERB с_ADP нога_NOUN мороженщик_NOUN и_CCONJ стукнуть_VERB по_ADP голова_NOUN карл::иванович::Шустерлинг_PROPN  который_PRON на_ADP минуточка_NOUN снимать_VERB шляпа_NOUN
+чтобы_SCONJ проветрить_VERB свой_DET затылок_NOUN удариться_VERB о_ADP голова_NOUN карл::иванович::Шустерлинг_PROPN  молоток_NOUN полететь_VERB обратно_ADV опять_ADV сшибить_NOUN с_ADP нога_NOUN мороженщик_NOUN сбрасывать_VERB с_ADP крыша_NOUN два_NUM драться_NOUN кот_NOUN перевернуть_VERB корова_NOUN убивать_VERB четыре_NUM воробей_NOUN и_CCONJ опять_ADV влетать_VERB в_ADP кузница_NOUN и_CCONJ прямо_ADV садиться_VERB на_ADP свой_DET рукоятка_NOUN который_PRON кузнец_NOUN продолжать_VERB еще_NOUN держать_VERB в_ADP правый_ADJ рука_NOUN весь_DET это_PRON происходить_VERB так_ADV быстро_ADV что_SCONJ кузнец_NOUN ничто_PRON не_PART замечать_VERB и_CCONJ продолжать_VERB далеко_ADV ковать_VERB подкова_NOUN
+ну_PART значит_ADV о_ADP кузнеце_NOUN уже_ADV писать_VERB сказка_NOUN тогда_ADV я_PRON писать_VERB сказка_NOUN о_ADP себя_PRON сам_ADJ сказать_VERB Ваня_PROPN  и_CCONJ писать_VERB
+Жил-был_VERB мальчик_NOUN Ваня_PROPN 
+про_ADP Ваня_PROPN  тоже_PART сказка_NOUN быть_VERB сказать_VERB Леночка_PROPN  Жил-был_VERB мальчик_NOUN Ваня_PROPN  и_CCONJ вот_PART однажды_ADV подходить_VERB он_PRON к._NOUN
+подождать_VERB сказать_VERB Ваня_PROPN  я_PRON хотеть_VERB писать_VERB сказка_NOUN про_ADP сам_ADJ себя_PRON
+и_CCONJ про_ADP ты_PRON уже_ADV сказка_NOUN писать_VERB сказать_VERB Леночка_PROPN 
+не_PART мочь_VERB быть_VERB сказать_VERB Ваня_PROPN 
+а_CCONJ я_PRON ты_PRON говорить_VERB что_SCONJ писать_VERB сказать_VERB Леночка_PROPN 
+да_PART где_ADV же_PART писать_VERB удивляться_VERB Ваня_PROPN 
+а_CCONJ вот_PART покупать_VERB журнал_NOUN чиж_PROPN  номер_NOUN семь_NUM и_CCONJ там_ADV ты_PRON прочтть_VERB сказка_NOUN про_ADP сам_ADJ себя_PRON сказать_VERB Леночка_PROPN 
+Ваня_PROPN  покупать_VERB чиж_PROPN  N_PROPN  7_NUM и_CCONJ прочитывать_VERB вот_PART этот_DET самый_ADJ сказка_NOUN который_PRON только_PART что_SCONJ читать_VERB ты_PRON
