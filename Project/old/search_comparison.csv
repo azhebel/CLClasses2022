@@ -1,0 +1,138 @@
+,query,algolia,vector_index
+0,code completion,"https://www.jetbrains.com/help/idea/auto-completing-code.html
+https://www.jetbrains.com/help/idea/discover-intellij-idea-for-scala.html
+https://www.jetbrains.com/help/idea/edit-scala-code.html
+https://www.jetbrains.com/help/idea/coding-assistance-in-groovy.html
+https://www.jetbrains.com/help/idea/completing-xslt.html","https://www.jetbrains.com/help/idea/auto-completing-code.html
+https://www.jetbrains.com/help/idea/completing-xslt.html
+https://www.jetbrains.com/help/idea/generate-custom-code-constructs-using-live-templates.html
+https://www.jetbrains.com/help/idea/symfony-forms.html
+https://www.jetbrains.com/help/idea/symfony-creating-helper-functions.html"
+1,environment variables,"https://www.jetbrains.com/help/idea/create-a-project-with-go-modules-integration.html
+https://www.jetbrains.com/help/idea/http-response-handling-examples.html
+https://www.jetbrains.com/help/idea/new-watcher-dialog.html
+https://www.jetbrains.com/help/idea/exploring-http-syntax.html
+https://www.jetbrains.com/help/idea/connect-to-oracle-cloud-by-using-wallets.html","https://www.jetbrains.com/help/idea/creating-virtual-environment.html
+https://www.jetbrains.com/help/idea/conda-support-creating-conda-virtual-environment.html
+https://www.jetbrains.com/help/idea/creating-empty-python-project.html
+https://www.jetbrains.com/help/idea/console-python-console.html
+https://www.jetbrains.com/help/idea/console-django-console.html"
+2,terminal,"https://www.jetbrains.com/help/idea/advanced-settings.html
+https://www.jetbrains.com/help/idea/terminal-emulator.html
+https://www.jetbrains.com/help/idea/settings-console-folding.html
+https://www.jetbrains.com/help/idea/console.html
+https://www.jetbrains.com/help/idea/version-control-tool-window-console-tab.html","https://www.jetbrains.com/help/idea/terminal-emulator.html
+https://www.jetbrains.com/help/idea/settings-tools-ssh-terminal.html
+https://www.jetbrains.com/help/idea/running-ssh-terminal.html
+https://www.jetbrains.com/help/idea/tagging-changesets.html
+https://www.jetbrains.com/help/idea/vagrant-support.html"
+3,flutter,"https://www.jetbrains.com/help/idea/investigate-changes.html
+https://www.jetbrains.com/help/idea/test-management-systems.html","https://www.jetbrains.com/help/idea/settings-notifications.html
+https://www.jetbrains.com/help/idea/configuring-project-and-ide-settings.html
+https://www.jetbrains.com/help/idea/php-built-in-web-server.html
+https://www.jetbrains.com/help/idea/work-with-scala-worksheet-and-ammonite.html
+https://www.jetbrains.com/help/idea/finding-and-replacing-text-in-project.html"
+4,javafx,"https://www.jetbrains.com/help/idea/settingsjavafx.html
+https://www.jetbrains.com/help/idea/new-project-wizard.html
+https://www.jetbrains.com/help/idea/project-structure-artifacts-java-fx-tab.html
+https://www.jetbrains.com/help/idea/opening-fxml-files-in-javafx-scene-builder.html
+https://www.jetbrains.com/help/idea/packaging-javafx-applications.html","https://www.jetbrains.com/help/idea/javafx.html
+https://www.jetbrains.com/help/idea/packaging-javafx-applications.html
+https://www.jetbrains.com/help/idea/settingsjavafx.html
+https://www.jetbrains.com/help/idea/project-structure-artifacts-java-fx-tab.html
+https://www.jetbrains.com/help/idea/linux-native-menu.html"
+5,community edition,"https://www.jetbrains.com/help/idea/faq-about-remote-development.html
+https://www.jetbrains.com/help/idea/installation-guide.html
+https://www.jetbrains.com/help/idea/code-with-me.html
+https://www.jetbrains.com/help/idea/discover-intellij-idea.html
+https://www.jetbrains.com/help/idea/generating-code.html","https://www.jetbrains.com/help/idea/discover-intellij-idea.html
+https://www.jetbrains.com/help/idea/using-perforce-integration.html
+https://www.jetbrains.com/help/idea/create-new-project-twitter-bootstrap.html
+https://www.jetbrains.com/help/idea/enabling-web-application-support.html
+https://www.jetbrains.com/help/idea/settings-languages-default-xml-schemas.html"
+6,bookmark,"https://www.jetbrains.com/help/idea/bookmarks.html
+https://www.jetbrains.com/help/idea/new-bookmark-dialog.html
+https://www.jetbrains.com/help/idea/managing-mercurial-branches-and-bookmarks.html
+https://www.jetbrains.com/help/idea/symbols.html
+https://www.jetbrains.com/help/idea/switching-between-working-directories.html","https://www.jetbrains.com/help/idea/bookmarks.html
+https://www.jetbrains.com/help/idea/new-bookmark-dialog.html
+https://www.jetbrains.com/help/idea/managing-mercurial-branches-and-bookmarks.html
+https://www.jetbrains.com/help/idea/switching-between-working-directories.html
+https://www.jetbrains.com/help/idea/merge-dialog-mercurial.html"
+7,uninstall,"https://www.jetbrains.com/help/idea/uninstall.html
+https://www.jetbrains.com/help/idea/installing-uninstalling-and-upgrading-packages.html
+https://www.jetbrains.com/help/idea/safe-delete.html
+https://www.jetbrains.com/help/idea/installing-uninstalling-and-reloading-interpreter-paths.html
+https://www.jetbrains.com/help/idea/tables-create-and-delete.html","https://www.jetbrains.com/help/idea/uninstall.html
+https://www.jetbrains.com/help/idea/configuring-python-sdk.html
+https://www.jetbrains.com/help/idea/installing-uninstalling-and-reloading-interpreter-paths.html
+https://www.jetbrains.com/help/idea/configuring-local-python-interpreters.html
+https://www.jetbrains.com/help/idea/installing-uninstalling-and-upgrading-packages.html"
+8,command line,"https://www.jetbrains.com/help/idea/working-with-the-ide-features-from-command-line.html
+https://www.jetbrains.com/help/idea/php-specific-command-line-tools.html
+https://www.jetbrains.com/help/idea/using-the-wordpress-command-line-tool-wp-cli.html
+https://www.jetbrains.com/help/idea/opening-files-from-command-line.html
+https://www.jetbrains.com/help/idea/command-line-formatter.html","https://www.jetbrains.com/help/idea/php-specific-command-line-tools.html
+https://www.jetbrains.com/help/idea/using-the-wordpress-command-line-tool-wp-cli.html
+https://www.jetbrains.com/help/idea/working-with-the-ide-features-from-command-line.html
+https://www.jetbrains.com/help/idea/configuring-line-endings-and-line-separators.html
+https://www.jetbrains.com/help/idea/settings-editor-general.html"
+9,wsl,"https://www.jetbrains.com/help/idea/how-to-use-wsl-development-environment-in-product.html
+https://www.jetbrains.com/help/idea/configuring-xdebug.html
+https://www.jetbrains.com/help/idea/configuring-remote-python-sdks.html
+https://www.jetbrains.com/help/idea/node-js-interpreters.html
+https://www.jetbrains.com/help/idea/developing-node-js-applications.html","https://www.jetbrains.com/help/idea/how-to-use-wsl-development-environment-in-product.html
+https://www.jetbrains.com/help/idea/node-js-interpreters.html
+https://www.jetbrains.com/help/idea/configuring-remote-python-sdks.html
+https://www.jetbrains.com/help/idea/ant.html
+https://www.jetbrains.com/help/idea/importing-process.html"
+10,code with me,"https://www.jetbrains.com/help/idea/faq-about-code-with-me-security.html
+https://www.jetbrains.com/help/idea/faq-about-code-with-me.html","https://www.jetbrains.com/help/idea/code-style.html
+https://www.jetbrains.com/help/idea/reformat-file-dialog.html
+https://www.jetbrains.com/help/idea/reformat-and-rearrange-code.html
+https://www.jetbrains.com/help/idea/settings-code-style-sql.html
+https://www.jetbrains.com/help/idea/faq-about-code-with-me.html"
+11,code style,"https://www.jetbrains.com/help/idea/configuring-code-style.html
+https://www.jetbrains.com/help/idea/code-style-java.html
+https://www.jetbrains.com/help/idea/code-style.html
+https://www.jetbrains.com/help/idea/code-style-yaml.html
+https://www.jetbrains.com/help/idea/settings-code-style-xml.html","https://www.jetbrains.com/help/idea/code-style.html
+https://www.jetbrains.com/help/idea/settings-code-style-sql.html
+https://www.jetbrains.com/help/idea/configure-the-sql-code-style.html
+https://www.jetbrains.com/help/idea/command-line-formatter.html
+https://www.jetbrains.com/help/idea/configuring-code-style.html"
+12,reformat code,"https://www.jetbrains.com/help/idea/reformat-and-rearrange-code.html
+https://www.jetbrains.com/help/idea/reformat-code-on-directory-dialog.html
+https://www.jetbrains.com/help/idea/prettier.html
+https://www.jetbrains.com/help/idea/vue-js.html
+https://www.jetbrains.com/help/idea/get-started.html","https://www.jetbrains.com/help/idea/reformat-and-rearrange-code.html
+https://www.jetbrains.com/help/idea/reformat-file-dialog.html
+https://www.jetbrains.com/help/idea/code-style-sql-wrapping.html
+https://www.jetbrains.com/help/idea/work-with-scala-formatter.html
+https://www.jetbrains.com/help/idea/prettier.html"
+13,run configuration,"https://www.jetbrains.com/help/idea/run-debug-configuration-tomcat-server.html
+https://www.jetbrains.com/help/idea/run-debug-configuration-spring-boot.html
+https://www.jetbrains.com/help/idea/run-debug-configuration-maven.html
+https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html","https://www.jetbrains.com/help/idea/run-debug-configurations-dialog.html
+https://www.jetbrains.com/help/idea/run-debug-configuration.html
+https://www.jetbrains.com/help/idea/run-debug-configuration-php-remote-debug.html
+https://www.jetbrains.com/help/idea/run-debug-configuration-java-scratch.html
+https://www.jetbrains.com/help/idea/run-debug-configuration-google-app-engine-deployment.html"
+14,file template," https://www.jetbrains.com/help/idea/using-file-and-code-templates.html
+ https://www.jetbrains.com/help/idea/file-template-variables.html
+ https://www.jetbrains.com/help/idea/settings-file-and-code-templates.html
+ https://www.jetbrains.com/help/idea/templates-with-multiple-files.html
+ https://www.jetbrains.com/help/idea/save-file-as-template-dialog.html","https://www.jetbrains.com/help/idea/settings-file-and-code-templates.html
+https://www.jetbrains.com/help/idea/save-file-as-template-dialog.html
+https://www.jetbrains.com/help/idea/using-file-and-code-templates.html
+https://www.jetbrains.com/help/idea/settings-live-templates.html
+https://www.jetbrains.com/help/idea/templates-dialog.html"
+15,file templates," https://www.jetbrains.com/help/idea/using-file-and-code-templates.html
+ https://www.jetbrains.com/help/idea/file-template-variables.html
+ https://www.jetbrains.com/help/idea/settings-file-and-code-templates.html
+ https://www.jetbrains.com/help/idea/templates-with-multiple-files.html
+ https://www.jetbrains.com/help/idea/save-file-as-template-dialog.html","https://www.jetbrains.com/help/idea/saving-project-as-template.html
+https://www.jetbrains.com/help/idea/using-file-and-code-templates.html
+https://www.jetbrains.com/help/idea/extracting-blocks-of-text-from-django-templates.html
+https://www.jetbrains.com/help/idea/symfony-templates.html
+https://www.jetbrains.com/help/idea/parse-directive.html"
