@@ -96,3 +96,14 @@ sum(log(abs(sin(1:10))))
 
 1:10 %>% sum() %>% sqrt()
 2 %>% c("sqrt", ., "equals", sqrt(.))
+
+# task 22.27
+
+v <- rep(100, nrow(heroes))
+t.test(heroes$Weight, v, paired = TRUE)
+
+t.test(heroes$Height, rep(100, nrow(heroes)), paired = TRUE)
+
+t.test(heroes$Weight, mu = 100)
+
+t.test(heroes$Height, mu = 185)
