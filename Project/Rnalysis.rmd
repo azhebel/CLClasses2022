@@ -1,0 +1,54 @@
+---
+title: "JetBrains IntelliJ IDEA Help"
+output: html_notebook
+---
+
+We have the text extracted to 01_topic_text.csv
+
+```{r}
+file <- read.csv("/Users/Alexey.Zhebel/IdeaProjects/CLClasses2022/Project/01_topic_text.csv", header = FALSE)
+```
+```{r}
+topic_names <- file$V1
+topic_texts <- file$V2
+```
+```{r}
+topic_names[2]
+substr(topic_texts[2], start = 1, stop = 100)
+```
+```{r}
+library(text2vec)
+```
+```{r}
+tokens <- itoken(word_tokenizer(topic_texts))
+```
+```{r}
+
+vocab <- create_vocabulary(tokens)
+```
+Vocabulary:
+```{r}
+vocab
+```
+```{r}
+vectorizer <- vocab_vectorizer(vocab)
+```
+```{r}
+t1 <- Sys.time()
+dtm <- create_dtm(tokens, vectorizer)
+print(difftime(Sys.time(), t1, units = "sec"))
+```
+Document-term matrix:
+```{r}
+print(dim(dtm))
+```
+```{r}
+tfidf <- fit_transform(dtm, TfIdf$new())
+```
+TFIDF:
+```{r}
+dim(tfidf)
+```
+
+
+
